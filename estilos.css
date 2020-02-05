@@ -1,0 +1,23 @@
+body{ /*color para la pagina*/
+  background-color:#CACFD2;
+}
+
+footer {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.contenido{
+    text-align: center;
+    font-family: 'calibri';
+    margin-top: 50px;
+}
+
+#tabla{border-collapse:collapse;}
+
+#td{
+width:60px;
+height:60px;
+border:1px solid #000
+}
