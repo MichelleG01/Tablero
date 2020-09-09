@@ -1,2 +1,2 @@
 # Tablero
-Practica creación tablero
+Practica creación tablero de ajedrez usando solo html y los estilos con css.
